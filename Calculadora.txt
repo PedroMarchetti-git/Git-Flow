@@ -1,2 +1,5 @@
 #DECLARAÇÃO DE VARIÁVEIS
+
 #leitura de entradas do programa
+
+#CRIAÇÃO DA FUNÇÃO SOMA
