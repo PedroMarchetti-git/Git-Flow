@@ -1,1 +1,2 @@
 #DECLARAÇÃO DE VARIÁVEIS
+#leitura de entradas do programa
